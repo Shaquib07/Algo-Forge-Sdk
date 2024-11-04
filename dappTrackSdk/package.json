@@ -1,0 +1,25 @@
+{
+    "name": "algorand-dapp-tracker",
+    "version": "1.0.0",
+    "description": "A package for tracking Algorand dApp transactions and swaps",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc",
+        "prepublishOnly": "npm run build"
+    },
+    "keywords": [
+        "algorand",
+        "dapp",
+        "tracker",
+        "blockchain"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "algosdk": "^2.9.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.5.4"
+    }
+}
