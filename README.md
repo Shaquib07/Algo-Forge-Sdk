@@ -20,7 +20,7 @@ The DApp Tracker empowers developers and users with detailed insights into the p
 
 
 ## Installation
-To set up this project locally, follow below commads steps:
+To set up this project locally, follow below commads:
 ```bash
 git clone https://github.com/your-repo/algoforge-dapp-tracker.git
 cd algoforge-dapp-tracker 
