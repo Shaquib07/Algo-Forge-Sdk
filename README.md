@@ -22,8 +22,6 @@ The DApp Tracker empowers developers and users with detailed insights into the p
 ## Installation
 To set up this project locally, follow below commads:
 ```bash
-git clone https://github.com/Shaquib07/Algo-Forge-Sdk.git
-cd algoforge-dapp-tracker 
 npm install algorand-dapp-tracker
 
 
